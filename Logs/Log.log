@@ -1,0 +1,348 @@
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test1  - Website opened
+[main] DEBUG Product.java  - Mouse Hover to Products
+[main] DEBUG Product.java  - Clicking on MACH3
+[main] DEBUG Product.java  - Veryfying text
+[main] INFO  Product.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test2  - Website opened
+[main] DEBUG SearchPage.java  - Clicking on Search icon
+[main] DEBUG SearchPage.java  - Entering Text Razor
+[main] DEBUG SearchPage.java  - Veryfying text
+[main] INFO  SearchPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Test3  - Website opened
+[main] INFO  FooterPage.java  - Text Verified
+[main] INFO  Hooks.class  - Driver closed
